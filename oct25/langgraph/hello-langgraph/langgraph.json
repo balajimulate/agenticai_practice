@@ -1,7 +1,0 @@
-{
-    "dependencies": ".",
-    "graphs": {
-        "main": "main:graph"
-    }
-    
-}

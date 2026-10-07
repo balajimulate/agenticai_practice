@@ -1,9 +1,0 @@
-Title: Secure Coding Practices
-
-Overview:
-Secure coding reduces vulnerabilities in applications.
-
-Guidelines:
-1. Validate inputs strictly.
-2. Avoid hardcoding secrets.
-3. Use prepared statements for database queries.

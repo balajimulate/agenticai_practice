@@ -1,9 +1,0 @@
-Title: Key DevOps Metrics to Track
-
-Overview:
-Tracking DevOps metrics helps measure team efficiency and software delivery performance.
-
-Key Metrics:
-1. Deployment frequency.
-2. Lead time for changes.
-3. Mean Time to Recovery (MTTR).

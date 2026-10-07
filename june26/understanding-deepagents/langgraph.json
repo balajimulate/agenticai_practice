@@ -1,6 +1,0 @@
-{
-    "dependencies": ".",
-    "graphs": {
-        "question-answer-subagent": "question_paper_agent:agent"
-    }
-}

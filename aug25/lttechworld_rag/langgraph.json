@@ -1,9 +1,0 @@
-{
-    "dependencies": [
-        "langchain[google-vertexai]",
-        "langgraph"
-    ],
-    "graphs": {
-        "main": "./simple.py:rag_graph_simple"
-    }
-}

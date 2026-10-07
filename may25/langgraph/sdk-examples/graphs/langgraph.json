@@ -1,6 +1,0 @@
-{
-    "graphs": {
-        "basic": "./basic.py:my_graph"
-    },
-    "dependencies": ["."]
-}
